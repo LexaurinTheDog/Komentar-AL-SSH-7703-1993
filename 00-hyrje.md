@@ -22,9 +22,9 @@ Komentari i ndjek këto pjesë në katër kapituj: kapitulli 1 (nenet 1–18), k
 
 ## Metoda
 
-- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një parser të posaçëm) nga teksti i konsoliduar i QBZ, pa shkurtime. Rreshtat e ndarë për shkak të faqosjes janë bashkuar; numrat e faqeve të botimit janë hequr.
+- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një parser të posaçëm) nga teksti i konsoliduar i QBZ, pa shkurtime. Rreshtat e ndarë për shkak të faqosjes janë bashkuar.
 - Shënimet redaksionale të QBZ për ndryshimet e çdo neni (p.sh. “ndryshuar me ligjin nr. 104/2014”) jepen poshtë tekstit të dispozitës si “Shënim në tekstin e konsoliduar”. Te nenet e shfuqizuara 12, 34 dhe 76 shënimi redaksional është i vetmi tekst i mbetur dhe jepet si tekst i dispozitës. Shënimi i vetëm në fund të faqes i tekstit të konsoliduar (për aktin normativ nr. 33/2020) jepet te neni 5/1/b.
-- Tabelat e neneve 92, 93 dhe 95 në tekstin burimor, që është konvertim nga PDF, janë të shpërbëra në qeliza të veçanta. Qelizat jepen në renditjen e burimit, të ndara me “|”; struktura grafike e tabelave nuk ruhet dhe mund të përmbajë edhe numërtim faqesh. Për vlerat e sakta sipas viteve dhe kategorive duhet konsultuar botimi zyrtar.
+- Tabelat e neneve 92, 93 dhe 95 jepen rresht pas rreshti, ashtu siç janë në tekstin burimor: çdo rresht i tabelës është një paragraf më vete dhe qelizat e tij ndahen me hapësirë; struktura grafike e kolonave nuk ruhet. Kuptimi i kolonave del nga rreshtat e kokës së secilës tabelë dhe shpjegohet në komentin e nenit përkatës.
 - Komentari është hartuar **vetëm mbi bazën e materialeve lokale** (teksti i konsoliduar i aktit dhe metadatat e tij), pa përdorur baza të dhënash juridike komerciale. Referimet në akte të tjera bëhen vetëm kur ato dalin nga vetë teksti i ligjit ose nga shënimet e tij redaksionale. **Praktika gjyqësore nuk është pjesë e këtij versioni** — ajo do të shtohet në një fazë të veçantë.
 - Aktet nënligjore (vendimet e Këshillit të Ministrave, statuti dhe rregulloret e Institutit të Sigurimeve Shoqërore), të cilave ligji u referohet shpesh, nuk janë objekt i këtij komentari.
 

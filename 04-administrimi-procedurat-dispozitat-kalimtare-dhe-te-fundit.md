@@ -480,17 +480,297 @@ Pika 4 njeh për gruan periudhën e studimeve në shkollën e lartë me shkëput
 
 > 1. Mosha dhe periudha e sigurimit për pension pleqërie, deri në arritjen e moshës dhe plotësimin e periudhës së sigurimit, që përcaktohet në pikën 1, të nenit 31, të këtij Ligji, do të rriten sipas tabelave që vijojnë:
 >
-> MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR | SECILËN KATEGORI | BURRI | Kategoria I KategoriaII KategoriaIII | Kategoria I | Vitet | Mosha | 1993 | 50 | 1995 | 51 | 1994 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 01.07.2002 - 30.06.2003 | 01.07.2003 - 30.06.2004 | 01.07.2004 - 30.06.2005 | 01.07.2005 - 30.06.2006 | 01.07.2006 - 30.06.2007 | 01.07.2007 - 30.06.2008 | 01.07.2008 - 30.06.2009 | 01.07.2009 - 30.06.2010 | 01.07.2010 - 30.06.2011 | 01.07.2011 - 30.06.2012 | 01.07.2012 - 30.06.2013 | 50 | 51 | 52 | 52 | 53 | 53 | 54 | 54 | 55 | 55 | 56 | 56 | 57 | 57 | 58 | 58 | 59 | 59 | Kategoria II | Vjetërsia e | punës | Mosha | 20 | 55 | 20 | 55 | 21 | 56 | 21 | 22 | 22 | 23 | 23 | 24 | 24 | 25 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 56 | 57 | 57 | 58 | 58 | 59 | 59 | 60 | 60v 6m | 61v | 61v 6m | 62v | 62v 6m | 63v | 63v 6m | 64v | 64v 6m | 32 | Kategoria III | Vjetërsia e | punës | Mosha | 25 | 60 | 25 | 60 | 26 | 60 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 60 | 60 | 60 | 60 | 60 | 60 | 60v 6m | 61v | 61v 6m | 62v | 62v 6m | 63v | 63v 6m | 64v | 64v 6m | 65v | 65v | Vjetërsia e | punës | 25 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 01.07.2013 - 30.06.2014 | 60 | 34 | 65v | 35 | 65v | 35 | 01.01.2015 - 31.12.2015 | 61v | 35v 4m | 65v | 35v 4m | 65v | 35v 4m | 01.07.2014 - 31.12.2014 | 01.01.2016 - 31.12.2016 | 01.01.2017 - 31.12.2017 | 01.01.2018 - 31.12.2018 | 01.01.2019 - 31.12.2019 | 01.01.2020 - 31.12.2020 | 01.01.2021 - 31.12.2021 | 01.01.2022 - 31.12.2022 | 01.01.2023 - 31.12.2023 | 01.01.2024 - 31.12.2024 | 01.01.2025 - 31.12.2025 | 01.01.2026 - 31.12.2026 | 01.01.2027 - 31.12.2027 | 01.01.2028 - 31.12.2028 | 01.01.2029 - 31.12.2029 | 01.01.2030 - 31.12.2030 | 01.01.2031 - 31.12.2031 | 01.01.2032 - 31.12.2032 | 01.01.2033- 31.12.2033 | 01.01.2034- 31.12.2034 | 01.01.2035- 31.12.2035 | 01.01.2036- 31.12.2036 | 01.01.2037- 31.12.2037 | 01.01.2038- 31.12.2038 | 01.01.2039- 31.12.2039 | 01.01.2040- 31.12.2040 | 01.01.2041- 31.12.2041 | 01.01.2042- 31.12.2042 | 01.01.2043- 31.12.2043 | 01.01.2044- 31.12.2044 | 01.01.2045- 31.12.2045 | 01.01.2046- 31.12.2046 | 01.01.2047- 31.12.2047 | 01.01.2048- 31.12.2048 | 01.01.2049- 31.12.2049 | 01.01.2050- 31.12.2050 | 01.01.2051- 31.12.2051 | 01.01.2052- 31.12.2052 | 60v 6m | 61v 6m | 62v | 62v 6m | 63v | 63v 6m | 64v | 64v 6m | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v 1m | 65v 2m | 65v 3m | 65v 4m | 65v 5m | 65v 6m | 65v 7m | 65v 8m | 65v 9m | 65v10m | 65v11m | 66v | 66v1m | 66v 2m | 66v 3m | 66v 4m | 66v 5m | 66v 6m | 66v 7m | 66v 8m | 35 | 35v 8m | 36v | 36v 4m | 36v 8m | 37v | 37v 4m | 37v 8m | 38v | 38v 4m | 38v 8m | 39v | 39v 4m | 39v 8m | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v 1m | 65v 2m | 65v 3m | 65v 4m | 65v 5m | 65v 6m | 65v 7m | 65v 8m | 65v 9m | 65v10m | 65v11m | 66v | 66v1m | 66v 2m | 66v 3m | 66v 4m | 66v 5m | 66v 6m | 66v 7m | 66v 8m | 33 | 35v | 35v 8m | 36v | 36v 4m | 36v 8m | 37v | 37v 4m | 37v 8m | 38v | 38v 4m | 38v 8m | 39v | 39v 4m | 39v 8m | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v | 65v 1m | 65v 2m | 65v 3m | 65v 4m | 65v 5m | 65v 6m | 65v 7m | 65v 8m | 65v 9m | 65v10m | 65v11m | 66v | 66v1m | 66v 2m | 66v 3m | 66v 4m | 66v 5m | 66v 6m | 66v 7m | 66v 8m | 35 | 35v 8m | 36v | 36v 4m | 36v 8m | 37v | 37v 4m | 37v 8m | 38v | 38v 4m | 38v 8m | 39v | 39v 4m | 39v 8m | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 01.01.2053- 31.12.2053 | 66v 9m | 40v | 66v 9m | 40v | 66v 9m | 40v | 01.01.2055- 31.12.2055 | 66v11m | 40v | 66v11m | 40v | 66v11m | 40v | 01.01.2054- 31.12.2054 | 01.01.2056- 31.12.2056 | 66v10m | 40v | 67v | 40v | 66v10m | 40v | 67v | 40v | 66v10m | 67v | 40v | 40v | GRUAJA | MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR | SECILËN KATEGORI | Kategoria I | Vitet | 1993 | 45 | Vjetërsia e | Mosha | punës | 15 | 50 | 1995 | 46 | 16 | 1994 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 01.07.2002 30.06.2003 | 01.07.2003 - 30.06.2004 | 01.07.2004 - 30.06.2005 | 01.07.2005 - 30.06.2006 | 01.07.2006 - 30.06.2007 | 01.07.2007 - 30.06.2008 | 01.07.2008 - 30.06.2009 | 01.07.2009 - 30.06.2010 | 01.07.2010 - 30.06.2011 | 01.07.2011 - 30.06.2012 | 01.07.2012 - 30.06.2013 | 01.07.2013 - 30.06.2014 | 01.07.2014 - 31.12.2014 | 01.01.2015 - 31.12.2015 | 01.01.2016 - 31.12.2016 | 01.01.2017 - 30.12.2017 | Mosha | Kategoria II | 45 | 46 | 47 | 47 | 48 | 48 | 49 | 49 | 50 | 50 | 51 | 51 | 52 | 52 | 53 | 53 | 54 | 54 | 55 | 55v 6m | 56v | 56v 6m | 57v | 15 | 50 | 17 | 51 | 51 | 18 | 52 | 19 | 52 | 20 | 53 | 21 | 53 | 22 | 54 | 23 | 54 | 24 | 55 | 25 | 55v 6m | 26 | 56v | 27 | 56v 6m | 28 | 57v | 29 | 57v 6m | 30 | 58v | 31 | 58v 6m | 32 | 59v | 33 | 59v 6m | 34 | 60v | 35 | 60v | 35 | 60v 2m | 35 | 60v4m | 35 | 60v6m | 34 | Kategoria III | Vjetërsia e | Mosha | punës | 20 | 55 | 20 | 22 | 22 | 21 | 55 | 23 | 55 | 24 | 25 | 26 | 28 | 30 | 32 | 34 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35v4m | 35v8m | 36v | 55 | 55 | 55 | 55 | 55 | 55 | 55v 6m | 56v | 56v 6m | 57v | 57v 6m | 58v | 58v 6m | 59v | 59v 6m | 60v | 60v | 60v | 60v | 60v2m | 60v4m | 60v6m | Vjetërsia e | punës | 21 | 23 | 24 | 25 | 26 | 28 | 30 | 32 | 34 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35v4m | 35v8m | 36v | 01.07.2018 - 30.06.2018 | 57v 6m | 35 | 60v8m | 36v4m | 60v8m | 36v4m | 01.01.2020 - 31.12.2020 | 58v 6m | 35 | 61v | 37v | 61v | 37v | 01.01.2019 - 31.12.2019 | 01.01.2021 - 31.12.2021 | 01.01.2022 - 31.12.2022 | 01.01.2023 - 31.12.2023 | 01.01.2024 - 31.12.2024 | 01.01.2025 - 31.12.2025 | 01.01.2026 - 31.12.2026 | 01.01.2027 - 31.12.2027 | 01.01.2028 - 31.12.2028 | 01.01.2029 - 31.12.2029 | 01.01.2030 - 31.12.2030 | 01.01.2031 - 31.12.2031 | 01.01.2032 - 31.12.2032 | 01.01.2033- 31.12.2033 | 01.01.2034- 31.12.2034 | 01.01.2035- 31.12.2035 | 01.01.2036- 31.12.2036 | 01.01.2037- 31.12.2037 | 01.01.2038- 31.12.2038 | 01.01.2039- 31.12.2039 | 01.01.2040- 31.12.2040 | 01.01.2041- 31.12.2041 | 01.01.2042- 31.12.2042 | 01.01.2043- 31.12.2043 | 01.01.2044- 31.12.2044 | 01.01.2045- 31.12.2045 | 01.01.2046- 31.12.2046 | 01.01.2047- 31.12.2047 | 01.01.2048- 31.12.2048 | 01.01.2049- 31.12.2049 | 01.01.2050- 31.12.2050 | 01.01.2051- 31.12.2051 | 01.01.2052- 31.12.2052 | 01.01.2053- 31.12.2053 | 01.01.2054- 31.12.2054 | 01.01.2055- 31.12.2055 | 01.01.2056- 31.12.2056 | 58v | 59v | 59v 6m | 60v | 60v4m | 60v8m | 61v | 61v4m | 61v8m | 62v | 62v4m | 62v8m | 63v | 63v 2m | 63v 4m | 63v 6m | 63v 8m | 63v10m | 64v | 64v2m | 64v4m | 64v6m | 64v8m | 64v10m | 65v | 65v2m | 65v4m | 65v6m | 65v8m | 65v10m | 66v | 66v2m | 66v4m | 66v6m | 66v8m | 66v10m | 67v | 35 | 60v10m | 35 | 61v2m | 35 | 61v4m | 35 | 61v6m | 35v6m | 61v8m | 36v | 61v10m | 36v6m | 62v | 37v | 62v2m | 37v6m | 62v4m | 38v | 62v6m | 38v6m | 62v8m | 39v | 62v10m | 40v | 63v | 40v | 63v 2m | 40v | 63v 4m | 40v | 63v 6m | 40v | 63v 8m | 40v | 63v10m | 40v | 64v | 40v | 64v2m | 40v | 64v4m | 40v | 64v6m | 40v | 64v8m | 40v | 64v10m | 40v | 65v | 40v | 65v2m | 40v | 65v4m | 40v | 65v6m | 40v | 65v8m | 40v | 65v10m | 40v | 66v | 40v | 66v2m | 40v | 66v4m | 40v | 66v6m | 40v | 66v8m | 40v | 66v10m | 40v | 67v | 36v8m | 37v4m | 37v8m | 38v | 38v4m | 38v8m | 39v | 39v4m | 39v8m | 40v | 40 v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 60v10m | 61v2m | 61v4m | 61v6m | 61v8m | 61v10m | 62v | 62v2m | 62v4m | 62v6m | 62v8m | 62v10m | 63v | 63v 2m | 63v 4m | 63v 6m | 63v 8m | 63v10m | 64v | 64v2m | 64v4m | 64v6m | 64v8m | 64v10m | 65v | 65v2m | 65v4m | 65v6m | 65v8m | 65v10m | 66v | 66v2m | 66v4m | 66v6m | 66v8m | 66v10m | 67v | 36v8m | 37v4m | 37v8m | 38v | 38v4m | 38v8m | 39v | 39v4m | 39v8m | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v | 40v
+> MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR
+>
+> SECILËN KATEGORI
+>
+> BURRI
+>
+> Kategoria I KategoriaII KategoriaIII
+>
+> Kategoria I Kategoria II Kategoria III
+>
+> Vitet Mosha Vjetërsia e Mosha Vjetërsia e Mosha Vjetërsia e
+>
+> punës punës punës
+>
+> 1993 50 20 55 25 60 25
+>
+> 1994 50 20 55 25 60 25
+>
+> 1995 51 21 56 26 60 26
+>
+> 1996 51 21 56 27 60 27
+>
+> 1997 52 22 57 28 60 28
+>
+> 1998 52 22 57 29 60 29
+>
+> 1999 53 23 58 30 60 30
+>
+> 2000 53 23 58 31 60 31
+>
+> 2001 54 24 59 32 60 32
+>
+> 01.07.2002 - 30.06.2003 54 24 59 33 60v 6m 33
+>
+> 01.07.2003 - 30.06.2004 55 25 60 34 61v 34
+>
+> 01.07.2004 - 30.06.2005 55 25 60v 6m 35 61v 6m 35
+>
+> 01.07.2005 - 30.06.2006 56 26 61v 35 62v 35
+>
+> 01.07.2006 - 30.06.2007 56 27 61v 6m 35 62v 6m 35
+>
+> 01.07.2007 - 30.06.2008 57 28 62v 35 63v 35
+>
+> 01.07.2008 - 30.06.2009 57 29 62v 6m 35 63v 6m 35
+>
+> 01.07.2009 - 30.06.2010 58 30 63v 35 64v 35
+>
+> 01.07.2010 - 30.06.2011 58 31 63v 6m 35 64v 6m 35
+>
+> 01.07.2011 - 30.06.2012 59 32 64v 35 65v 35
+>
+> 01.07.2012 - 30.06.2013 59 33 64v 6m 35 65v 35
+>
+> 01.07.2013 - 30.06.2014 60 34 65v 35 65v 35
+>
+> 01.07.2014 - 31.12.2014 60v 6m 35 65v 35v 65v 35
+>
+> 01.01.2015 - 31.12.2015 61v 35v 4m 65v 35v 4m 65v 35v 4m
+>
+> 01.01.2016 - 31.12.2016 61v 6m 35v 8m 65v 35v 8m 65v 35v 8m
+>
+> 01.01.2017 - 31.12.2017 62v 36v 65v 36v 65v 36v
+>
+> 01.01.2018 - 31.12.2018 62v 6m 36v 4m 65v 36v 4m 65v 36v 4m
+>
+> 01.01.2019 - 31.12.2019 63v 36v 8m 65v 36v 8m 65v 36v 8m
+>
+> 01.01.2020 - 31.12.2020 63v 6m 37v 65v 37v 65v 37v
+>
+> 01.01.2021 - 31.12.2021 64v 37v 4m 65v 37v 4m 65v 37v 4m
+>
+> 01.01.2022 - 31.12.2022 64v 6m 37v 8m 65v 37v 8m 65v 37v 8m
+>
+> 01.01.2023 - 31.12.2023 65v 38v 65v 38v 65v 38v
+>
+> 01.01.2024 - 31.12.2024 65v 38v 4m 65v 38v 4m 65v 38v 4m
+>
+> 01.01.2025 - 31.12.2025 65v 38v 8m 65v 38v 8m 65v 38v 8m
+>
+> 01.01.2026 - 31.12.2026 65v 39v 65v 39v 65v 39v
+>
+> 01.01.2027 - 31.12.2027 65v 39v 4m 65v 39v 4m 65v 39v 4m
+>
+> 01.01.2028 - 31.12.2028 65v 39v 8m 65v 39v 8m 65v 39v 8m
+>
+> 01.01.2029 - 31.12.2029 65v 40v 65v 40v 65v 40v
+>
+> 01.01.2030 - 31.12.2030 65v 40v 65v 40v 65v 40v
+>
+> 01.01.2031 - 31.12.2031 65v 40v 65v 40v 65v 40v
+>
+> 01.01.2032 - 31.12.2032 65v 40v 65v 40v 65v 40v
+>
+> 01.01.2033- 31.12.2033 65v 1m 40v 65v 1m 40v 65v 1m 40v
+>
+> 01.01.2034- 31.12.2034 65v 2m 40v 65v 2m 40v 65v 2m 40v
+>
+> 01.01.2035- 31.12.2035 65v 3m 40v 65v 3m 40v 65v 3m 40v
+>
+> 01.01.2036- 31.12.2036 65v 4m 40v 65v 4m 40v 65v 4m 40v
+>
+> 01.01.2037- 31.12.2037 65v 5m 40v 65v 5m 40v 65v 5m 40v
+>
+> 01.01.2038- 31.12.2038 65v 6m 40v 65v 6m 40v 65v 6m 40v
+>
+> 01.01.2039- 31.12.2039 65v 7m 40v 65v 7m 40v 65v 7m 40v
+>
+> 01.01.2040- 31.12.2040 65v 8m 40v 65v 8m 40v 65v 8m 40v
+>
+> 01.01.2041- 31.12.2041 65v 9m 40v 65v 9m 40v 65v 9m 40v
+>
+> 01.01.2042- 31.12.2042 65v10m 40v 65v10m 40v 65v10m 40v
+>
+> 01.01.2043- 31.12.2043 65v11m 40v 65v11m 40v 65v11m 40v
+>
+> 01.01.2044- 31.12.2044 66v 40v 66v 40v 66v 40v
+>
+> 01.01.2045- 31.12.2045 66v1m 40v 66v1m 40v 66v1m 40v
+>
+> 01.01.2046- 31.12.2046 66v 2m 40v 66v 2m 40v 66v 2m 40v
+>
+> 01.01.2047- 31.12.2047 66v 3m 40v 66v 3m 40v 66v 3m 40v
+>
+> 01.01.2048- 31.12.2048 66v 4m 40v 66v 4m 40v 66v 4m 40v
+>
+> 01.01.2049- 31.12.2049 66v 5m 40v 66v 5m 40v 66v 5m 40v
+>
+> 01.01.2050- 31.12.2050 66v 6m 40v 66v 6m 40v 66v 6m 40v
+>
+> 01.01.2051- 31.12.2051 66v 7m 40v 66v 7m 40v 66v 7m 40v
+>
+> 01.01.2052- 31.12.2052 66v 8m 40v 66v 8m 40v 66v 8m 40v
+>
+> 01.01.2053- 31.12.2053 66v 9m 40v 66v 9m 40v 66v 9m 40v
+>
+> 01.01.2054- 31.12.2054 66v10m 40v 66v10m 40v 66v10m 40v
+>
+> 01.01.2055- 31.12.2055 66v11m 40v 66v11m 40v 66v11m 40v
+>
+> 01.01.2056- 31.12.2056 67v 40v 67v 40v 67v 40v
+>
+> GRUAJA
+>
+> MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHET NË VITE PËR
+>
+> SECILËN KATEGORI
+>
+> Kategoria I Kategoria II Kategoria III
+>
+> Vitet Mosha Vjetërsia e Mosha Vjetërsia e Mosha Vjetërsia e
+>
+> punës punës punës
+>
+> 1993 45 15 50 20 55 20
+>
+> 1994 45 15 50 21 55 21
+>
+> 1995 46 16 51 22 55 22
+>
+> 1996 46 17 51 23 55 23
+>
+> 1997 47 18 52 24 55 24
+>
+> 1998 47 19 52 25 55 25
+>
+> 1999 48 20 53 26 55 26
+>
+> 2000 48 21 53 28 55 28
+>
+> 2001 49 22 54 30 55 30
+>
+> 01.07.2002 30.06.2003 49 23 54 32 55v 6m 32
+>
+> 01.07.2003 - 30.06.2004 50 24 55 34 56v 34
+>
+> 01.07.2004 - 30.06.2005 50 25 55v 6m 35 56v 6m 35
+>
+> 01.07.2005 - 30.06.2006 51 26 56v 35 57v 35
+>
+> 01.07.2006 - 30.06.2007 51 27 56v 6m 35 57v 6m 35
+>
+> 01.07.2007 - 30.06.2008 52 28 57v 35 58v 35
+>
+> 01.07.2008 - 30.06.2009 52 29 57v 6m 35 58v 6m 35
+>
+> 01.07.2009 - 30.06.2010 53 30 58v 35 59v 35
+>
+> 01.07.2010 - 30.06.2011 53 31 58v 6m 35 59v 6m 35
+>
+> 01.07.2011 - 30.06.2012 54 32 59v 35 60v 35
+>
+> 01.07.2012 - 30.06.2013 54 33 59v 6m 35 60v 35
+>
+> 01.07.2013 - 30.06.2014 55 34 60v 35 60v 35
+>
+> 01.07.2014 - 31.12.2014 55v 6m 35 60v 35 60v 35
+>
+> 01.01.2015 - 31.12.2015 56v 35 60v 2m 35v4m 60v2m 35v4m
+>
+> 01.01.2016 - 31.12.2016 56v 6m 35 60v4m 35v8m 60v4m 35v8m
+>
+> 01.01.2017 - 30.12.2017 57v 35 60v6m 36v 60v6m 36v
+>
+> 01.07.2018 - 30.06.2018 57v 6m 35 60v8m 36v4m 60v8m 36v4m
+>
+> 01.01.2019 - 31.12.2019 58v 35 60v10m 36v8m 60v10m 36v8m
+>
+> 01.01.2020 - 31.12.2020 58v 6m 35 61v 37v 61v 37v
+>
+> 01.01.2021 - 31.12.2021 59v 35 61v2m 37v4m 61v2m 37v4m
+>
+> 01.01.2022 - 31.12.2022 59v 6m 35 61v4m 37v8m 61v4m 37v8m
+>
+> 01.01.2023 - 31.12.2023 60v 35 61v6m 38v 61v6m 38v
+>
+> 01.01.2024 - 31.12.2024 60v4m 35v6m 61v8m 38v4m 61v8m 38v4m
+>
+> 01.01.2025 - 31.12.2025 60v8m 36v 61v10m 38v8m 61v10m 38v8m
+>
+> 01.01.2026 - 31.12.2026 61v 36v6m 62v 39v 62v 39v
+>
+> 01.01.2027 - 31.12.2027 61v4m 37v 62v2m 39v4m 62v2m 39v4m
+>
+> 01.01.2028 - 31.12.2028 61v8m 37v6m 62v4m 39v8m 62v4m 39v8m
+>
+> 01.01.2029 - 31.12.2029 62v 38v 62v6m 40v 62v6m 40v
+>
+> 01.01.2030 - 31.12.2030 62v4m 38v6m 62v8m 40 v 62v8m 40v
+>
+> 01.01.2031 - 31.12.2031 62v8m 39v 62v10m 40v 62v10m 40v
+>
+> 01.01.2032 - 31.12.2032 63v 40v 63v 40v 63v 40v
+>
+> 01.01.2033- 31.12.2033 63v 2m 40v 63v 2m 40v 63v 2m 40v
+>
+> 01.01.2034- 31.12.2034 63v 4m 40v 63v 4m 40v 63v 4m 40v
+>
+> 01.01.2035- 31.12.2035 63v 6m 40v 63v 6m 40v 63v 6m 40v
+>
+> 01.01.2036- 31.12.2036 63v 8m 40v 63v 8m 40v 63v 8m 40v
+>
+> 01.01.2037- 31.12.2037 63v10m 40v 63v10m 40v 63v10m 40v
+>
+> 01.01.2038- 31.12.2038 64v 40v 64v 40v 64v 40v
+>
+> 01.01.2039- 31.12.2039 64v2m 40v 64v2m 40v 64v2m 40v
+>
+> 01.01.2040- 31.12.2040 64v4m 40v 64v4m 40v 64v4m 40v
+>
+> 01.01.2041- 31.12.2041 64v6m 40v 64v6m 40v 64v6m 40v
+>
+> 01.01.2042- 31.12.2042 64v8m 40v 64v8m 40v 64v8m 40v
+>
+> 01.01.2043- 31.12.2043 64v10m 40v 64v10m 40v 64v10m 40v
+>
+> 01.01.2044- 31.12.2044 65v 40v 65v 40v 65v 40v
+>
+> 01.01.2045- 31.12.2045 65v2m 40v 65v2m 40v 65v2m 40v
+>
+> 01.01.2046- 31.12.2046 65v4m 40v 65v4m 40v 65v4m 40v
+>
+> 01.01.2047- 31.12.2047 65v6m 40v 65v6m 40v 65v6m 40v
+>
+> 01.01.2048- 31.12.2048 65v8m 40v 65v8m 40v 65v8m 40v
+>
+> 01.01.2049- 31.12.2049 65v10m 40v 65v10m 40v 65v10m 40v
+>
+> 01.01.2050- 31.12.2050 66v 40v 66v 40v 66v 40v
+>
+> 01.01.2051- 31.12.2051 66v2m 40v 66v2m 40v 66v2m 40v
+>
+> 01.01.2052- 31.12.2052 66v4m 40v 66v4m 40v 66v4m 40v
+>
+> 01.01.2053- 31.12.2053 66v6m 40v 66v6m 40v 66v6m 40v
+>
+> 01.01.2054- 31.12.2054 66v8m 40v 66v8m 40v 66v8m 40v
+>
+> 01.01.2055- 31.12.2055 66v10m 40v 66v10m 40v 66v10m 40v
+>
+> 01.01.2056- 31.12.2056 67v 40v 67v 40v 67v 40v
 >
 > 2. I siguruari ka të drejtë të marrë pension pleqërie në kushtet e kategorisë së parë ose të dytë, pasi ka plotësuar në këtë kategori jo më pak se 3/4 e viteve të sigurimit. I siguruari që ka plotësuar vitet e sigurimit, sipas tabelës së mësipërme, nga të cilat jo më pak se 1/2 ka punuar në nëntokë, ka të drejtë të marrë pension në kushtet e kategorisë së parë.
 
 *Shënim në tekstin e konsoliduar:* (ndryshuar me ligjin nr. 8889, datë 25.04.2002; ndryshuar me ligjin nr. 104/2014, datë 31.07.2014)
 
-*Shënim në tekstin e konsoliduar:* Tabela e këtij neni në tekstin burimor (konvertim nga PDF) është e shpërbërë në qeliza të veçanta; qelizat jepen këtu në renditjen e tekstit burimor, të ndara me “|”, dhe mund të përmbajnë edhe numërtimin e faqeve të botimit. Struktura grafike e tabelës nuk ruhet.
+*Shënim në tekstin e konsoliduar:* Tabela e këtij neni jepet rresht pas rreshti, sipas tekstit burimor: çdo rresht i tabelës është një paragraf më vete, me qelizat e ndara me hapësirë. Struktura grafike e kolonave nuk ruhet.
 
 Neni 92 rregullon rritjen graduale të moshës dhe të periudhës së sigurimit për pensionin e pleqërisë. Edhe pse renditet ndër dispozitat kalimtare, ai është një nga nenet më të rëndësishme të ligjit, sepse neni 31 nuk e përcakton vetë moshën e pensionit, por i referohet atij. Sipas shënimit redaksional, neni është ndryshuar me ligjet nr. 8889/2002 dhe nr. 104/2014.
 
-Pika 1 parashikon që mosha dhe periudha e sigurimit rriten sipas tabelave që vijojnë. Tabelat dallojnë burrat (“BURRI”) dhe gratë (“GRUAJA”) dhe tri kategori pune (Kategoria I, II, III), si dhe periudha kohore nga viti 1993, me intervale vjetore të formës “01.07.xxxx - 30.06.xxxx”. Vlerat jepen në vite dhe muaj (p.sh. “60v 6m”, “63v 2m”). Në tekstin burimor, që është konvertim nga PDF, tabelat janë të shpërbëra në qeliza, prandaj lidhja e çdo vlere me rreshtin dhe kolonën përkatëse nuk mund të rindërtohet me siguri; për zbatim praktik duhet të përdoret tabela grafike e botimit zyrtar. Qelizat e fundit të tabelës përmbajnë ndër të tjera vlerat “67v” dhe “40v”, që tregojnë drejtimin e rritjes graduale të moshës dhe të periudhës së sigurimit; komentari nuk nxjerr prej tyre parametra përfundimtarë për secilën kategori.
+Pika 1 parashikon që mosha dhe periudha e sigurimit rriten sipas tabelave që vijojnë: një tabelë për burrat (“BURRI”) dhe një për gratë (“GRUAJA”), secila me moshën dhe vjetërsinë në punë që kërkohen për tri kategoritë e punës (Kategoria I, II, III). Rreshtat e tabelave mbulojnë vitet 1993–2001, pastaj intervale vjetore të formës “01.07.xxxx - 30.06.xxxx” deri më 31.12.2014 dhe, që nga viti 2015, vitet kalendarike deri në vitin 2056; vlerat jepen në vite dhe muaj (p.sh. “60v 6m”). Në vitin 1993 burrat kishin të drejtë pensioni në moshën 50 vjeç me 20 vjet vjetërsi (kategoria I), 55 vjeç me 25 vjet (kategoria II) dhe 60 vjeç me 25 vjet (kategoria III); për gratë kërkesat përkatëse ishin 45 vjeç e 15 vjet, 50 vjeç e 20 vjet dhe 55 vjeç e 20 vjet. Rritja graduale i afron kategoritë: për burrat, nga viti 2023 të tria kategoritë kërkojnë 65 vjeç dhe 38 vjet sigurim, vjetërsia arrin 40 vjet në vitin 2029 dhe mosha rritet pastaj me një muaj në vit deri në 67 vjeç në vitin 2056; për gratë, të tria kategoritë barazohen në vitin 2032 me 63 vjeç dhe 40 vjet sigurim, dhe mosha rritet pastaj me dy muaj në vit deri në 67 vjeç në vitin 2056. Kështu, në fund të periudhës kalimtare kushtet janë të njëjta për burrat dhe gratë dhe për të tria kategoritë (67 vjeç dhe 40 vjet sigurim). Disa rreshta të tekstit zyrtar përmbajnë pasaktësi në shënimin e intervaleve (p.sh. “01.01.2017 - 30.12.2017” dhe “01.07.2018 - 30.06.2018” në tabelën e grave), të cilat sipas renditjes së tabelës u përkasin viteve kalendarike 2017 dhe 2018.
 
 Pika 2 përmban dy rregulla për kategoritë e punës. I siguruari ka të drejtë për pension në kushtet e kategorisë së parë ose të dytë vetëm pasi ka plotësuar në atë kategori jo më pak se 3/4 e viteve të sigurimit. Përjashtim: kush ka plotësuar vitet e sigurimit sipas tabelës, nga të cilat jo më pak se gjysma në nëntokë, merr pension në kushtet e kategorisë së parë. Kategoritë e punës pasqyrojnë vështirësinë e kushteve të punës dhe justifikojnë kushte më të favorshme moshe.
 
@@ -502,17 +782,41 @@ Neni 92 përdoret si referencë në shumë dispozita: neni 31 (kushtet e pension
 
 > Nënat që kanë lindur 6 ose më shumë fëmijë, të cilët janë rritur më shumë se 8 vjeç, marrin pensionin e pleqërisë, kur kanë plotësuar moshën 55 vjeç dhe kanë vjetërsi në punë si vijon:
 >
-> Vitet | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | Vitet e sigurimit | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 24 | 26 | 28 | 30
+> Vitet Vitet e sigurimit
+>
+> 1993 15
+>
+> 1994 16
+>
+> 1995 17
+>
+> 1996 18
+>
+> 1997 19
+>
+> 1998 20
+>
+> 1999 21
+>
+> 2000 22
+>
+> 2001 24
+>
+> 2002 26
+>
+> 2003 28
+>
+> 2004 30
 >
 > Në rastet kur si vjetërsi pune, sipas kësaj tabele, kërkohet të njihet edhe vjetërsia si ish-anëtar i kooperativës bujqësore, dhe data e fillimit të pensionit është nga data 01.01.2015 e në vazhdim, masa e pensionit llogaritet sipas neneve 32 dhe 96, të këtij Ligji.
 
 *Shënim në tekstin e konsoliduar:* (zëvendësuar fjalë dhe ndryshuar paragrafi i dytë me ligjin nr. 104/2014, datë 31.07.2014, neni 44)
 
-*Shënim në tekstin e konsoliduar:* Tabela e këtij neni në tekstin burimor (konvertim nga PDF) është e shpërbërë në qeliza të veçanta; qelizat jepen këtu në renditjen e tekstit burimor, të ndara me “|”, dhe mund të përmbajnë edhe numërtimin e faqeve të botimit. Struktura grafike e tabelës nuk ruhet.
+*Shënim në tekstin e konsoliduar:* Tabela e këtij neni jepet rresht pas rreshti, sipas tekstit burimor: çdo rresht i tabelës është një paragraf më vete, me qelizat e ndara me hapësirë. Struktura grafike e kolonave nuk ruhet.
 
 Neni 93 rregullon pensionin e pleqërisë për nënat me shumë fëmijë gjatë periudhës kalimtare. Sipas shënimit redaksional, fjalë të caktuara dhe paragrafi i dytë janë ndryshuar me ligjin nr. 104/2014.
 
-Paragrafi i parë parashikon që nënat që kanë lindur 6 ose më shumë fëmijë, të rritur mbi 8 vjeç, marrin pension pleqërie në moshën 55 vjeç, me vjetërsi pune sipas tabelës. Tabela, e cila në tekstin burimor është e shpërbërë në qeliza, liston vitet 1993–2004 dhe vitet e sigurimit 15–30; nga renditja duket se kërkesa rritej nga 15 vjet (1993) deri në 30 vjet (2004), por lidhja e saktë e vlerave duhet verifikuar në botimin zyrtar. Vlera përfundimtare prej 30 vjetësh përputhet me nenin 31, pika 2, që për këtë kategori kërkon moshën 55 vjeç dhe 30 vjet sigurim.
+Paragrafi i parë parashikon që nënat që kanë lindur 6 ose më shumë fëmijë, të rritur mbi 8 vjeç, marrin pension pleqërie në moshën 55 vjeç, me vjetërsi pune sipas tabelës. Tabela jep për çdo vit nga 1993 deri në 2004 vitet e sigurimit të kërkuara: 15 vjet në vitin 1993, me rritje prej një viti për çdo vit deri në 22 vjet në vitin 2000, dhe pastaj me dy vjet për çdo vit deri në 30 vjet në vitin 2004. Vlera përfundimtare prej 30 vjetësh përputhet me nenin 31, pika 2, që për këtë kategori kërkon moshën 55 vjeç dhe 30 vjet sigurim.
 
 Paragrafi i dytë rregullon llogaritjen kur si vjetërsi pune kërkohet të njihet edhe vjetërsia si ish-anëtar i kooperativës bujqësore dhe pensioni fillon nga 1.1.2015 e në vazhdim: masa e pensionit llogaritet sipas neneve 32 dhe 96. Kjo do të thotë se edhe për këtë kategori zbatohet formula me shumë bazë dhe shtesë, me rregullat e veçanta të nenit 96 për periudhat në kooperativa. Dispozita ka natyrë favorizuese dhe synon të njohë kontributin e amësisë së shumëfishtë; kushtet e lindjes së 6 fëmijëve dhe të rritjes së tyre mbi 8 vjeç duhen vërtetuar me dokumente të gjendjes civile.
 
@@ -534,17 +838,63 @@ Shembulli i minatorëve (“si minatorë etj”) tregon se dispozita synon punë
 
 > Mosha dhe periudha e sigurimit për pension të pjesshëm pleqërie, deri në arritjen e moshës dhe plotësimin e periudhës së sigurimit, që përcaktohet në nenin 34 të këtij Ligji, rriten sipas tabelës që vijon:
 >
-> MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHEN | NË VITE PËR PËRFITIMIN E PENSIONIT TË PJESSHËM TË PLEQËRISË | Vitet | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 01.07.2002 - 30.06.2003 | 01.07.2003 - 30.06.2004 | 01.07.2004 - 30.06.2005 | 01.07.2005 - 30.06.2006 | 01.07.2006 - 30.06.2007 | 01.07.2007 - 30.06.2008 | 01.07.2008 - 30.06.2009 | 01.07.2009 - 30.06.2010 | 01.07.2010 - 30.06.2011 | 2011 e në vazhdim | Mosha për | burrat | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60v 6m | 61v | 61v 6m | 62v | 62v 6m | 63v | 63v 6m | 64v | 64v 6m | 65v | Vitet e | Mosha për | sigurimit për | gratë | burrat | 12v 6m | 55 | 12v 6m | 13v | 13v 6m | 14v | 14v 6m | 15v | 15v 6m | 16v | 17v | 18v 6m | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v | 55 | 55 | 55 | 55 | 55 | 55 | 55 | 55 | 55v 6m | 56v | 56v 6m | 57v | 57v 6m | 58v | 58v 6m | 59v | 59v 6m | 60v | Vitet e | sigurimit për | gratë | 10v | 10v 6m | 11v | 11v 6m | 12v | 12v 6m | 14v | 15v | 16v | 17v | 18v 6m | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v | 15 v
+> MOSHA DHE PERIUDHA E SIGURIMIT QË KËRKOHEN
+>
+> NË VITE PËR PËRFITIMIN E PENSIONIT TË PJESSHËM TË PLEQËRISË
+>
+> Vitet Mosha për Vitet e Mosha për Vitet e
+>
+> burrat sigurimit për gratë sigurimit për
+>
+> burrat gratë
+>
+> 1993 60 12v 6m 55 10v
+>
+> 1994 60 12v 6m 55 10v 6m
+>
+> 1995 60 13v 55 11v
+>
+> 1996 60 13v 6m 55 11v 6m
+>
+> 1997 60 14v 55 12v
+>
+> 1998 60 14v 6m 55 12v 6m
+>
+> 1999 60 15v 55 14v
+>
+> 2000 60 15v 6m 55 15v
+>
+> 2001 60 16v 55 16v
+>
+> 01.07.2002 - 30.06.2003 60v 6m 17v 55v 6m 17v
+>
+> 01.07.2003 - 30.06.2004 61v 18v 6m 56v 18v 6m
+>
+> 01.07.2004 - 30.06.2005 61v 6m 15 v 56v 6m 15 v
+>
+> 01.07.2005 - 30.06.2006 62v 15 v 57v 15 v
+>
+> 01.07.2006 - 30.06.2007 62v 6m 15 v 57v 6m 15 v
+>
+> 01.07.2007 - 30.06.2008 63v 15 v 58v 15 v
+>
+> 01.07.2008 - 30.06.2009 63v 6m 15 v 58v 6m 15 v
+>
+> 01.07.2009 - 30.06.2010 64v 15 v 59v 15 v
+>
+> 01.07.2010 - 30.06.2011 64v 6m 15 v 59v 6m 15 v
+>
+> 2011 e në vazhdim 65v 15 v 60v 15 v
 >
 > Pensioni i pjesshëm jepet në raport me vjetërsinë në punë, që kërkohet në vitin përkatës. Për pensionet me datë fillimi nga 01.01.2015 e në vazhdim ky nen nuk zbatohet.
 
 *Shënim në tekstin e konsoliduar:* (shtuar një paragraf pas paragrafit të dytë me ligjin nr. 7932, datë 17.05.1995; ndryshuar neni me ligjin nr. 8889, datë 25.04.2002; ndryshuar tabela me ligjin nr. 9377, datë 21.04.2005; shtuar paragrafi i fundit me ligjin nr. 104/2014, datë 31.07.2014)
 
-*Shënim në tekstin e konsoliduar:* Tabela e këtij neni në tekstin burimor (konvertim nga PDF) është e shpërbërë në qeliza të veçanta; qelizat jepen këtu në renditjen e tekstit burimor, të ndara me “|”, dhe mund të përmbajnë edhe numërtimin e faqeve të botimit. Struktura grafike e tabelës nuk ruhet.
+*Shënim në tekstin e konsoliduar:* Tabela e këtij neni jepet rresht pas rreshti, sipas tekstit burimor: çdo rresht i tabelës është një paragraf më vete, me qelizat e ndara me hapësirë. Struktura grafike e kolonave nuk ruhet.
 
 Neni 95 rregullon, si dispozitë kalimtare, rritjen graduale të moshës dhe të periudhës së sigurimit për pensionin e pjesshëm të pleqërisë. Sipas shënimit redaksional, neni është ndryshuar disa herë dhe paragrafi i fundit është shtuar me ligjin nr. 104/2014.
 
-Paragrafi i parë i referohet moshës dhe periudhës së sigurimit “që përcaktohet në nenin 34”, i cili është shfuqizuar me ligjin nr. 104/2014. Tabela, e shpërbërë në qeliza në tekstin burimor, përmban kolonat “Mosha për burrat”, “Mosha për gratë”, “Vitet e sigurimit për burrat” dhe “Vitet e sigurimit për gratë”, me vlera nga viti 1993 deri në intervalin “2011 e në vazhdim”. Nga qelizat del se mosha për burrat rritej nga 60 deri në 65 vjet dhe për gratë nga 55 deri në 60 vjet, ndërsa vitet e sigurimit rriteshin deri në 15 vjet; lidhja e saktë e çdo vlere me vitin përkatës duhet verifikuar në botimin zyrtar.
+Paragrafi i parë i referohet moshës dhe periudhës së sigurimit “që përcaktohet në nenin 34”, i cili është shfuqizuar me ligjin nr. 104/2014. Tabela ka kolonat “Mosha për burrat”, “Vitet e sigurimit për burrat”, “Mosha për gratë” dhe “Vitet e sigurimit për gratë”, me rreshta nga viti 1993 deri te rreshti “2011 e në vazhdim”. Mosha për burrat ishte 60 vjeç deri në vitin 2001 dhe rritej pastaj me gjashtë muaj në çdo interval vjetor deri në 65 vjeç (“2011 e në vazhdim”); për gratë, në të njëjtën mënyrë, nga 55 deri në 60 vjeç. Vitet e sigurimit rriteshin nga 12 vjet e 6 muaj për burrat dhe 10 vjet për gratë në vitin 1993 deri në 18 vjet e 6 muaj për të dy gjinitë në intervalin 01.07.2003 - 30.06.2004, ndërsa që nga intervali 01.07.2004 - 30.06.2005 tabela kërkon 15 vjet sigurim për burrat dhe për gratë.
 
 Paragrafi i dytë parashikon që pensioni i pjesshëm jepet në raport me vjetërsinë në punë që kërkohet në vitin përkatës. Fjalia e fundit, e shtuar më 2014, është vendimtare për zbatimin aktual: për pensionet me datë fillimi nga 1.1.2015 e në vazhdim ky nen nuk zbatohet. Për pensionet e reja, rasti i karrierës sigurative të paplotë trajtohet nga formula e nenit 32, sipas së cilës shuma bazë llogaritet proporcionalisht me periudhën e realizuar, me kusht që të plotësohet minimumi prej 15 vitesh i nenit 31. Neni 95 mbetet i rëndësishëm vetëm për pensionet e caktuara para vitit 2015, të cilat sipas nenit 88, pika 4, nuk rillogariten.
 
